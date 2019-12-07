@@ -4,8 +4,6 @@ What is React Hooks?
 
 With Hooks, you can extract stateful logic from a component so it can be tested independently and reused. Hooks allow you to reuse stateful logic without changing your component hierarchy. This makes it easy to share Hooks among many components or with the community.
 
-Why use React Hooks?
-
 Video and Website Resources
 
 Tyler McGinnis Why React Hooks Article - https://tylermcginnis.com/why-react-hooks/
